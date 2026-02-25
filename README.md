@@ -23,13 +23,7 @@ Science, AI Engineering, Business Intelligence, and Strategy.
 
 ---
 
-## 🚀 What Am I Currently Working On?
 
-- Building and experimenting at **Mavdiron Intelligence** — applying GenAI and
-  Data Analytics to real business challenges
-- Developing AI-driven workflows that reduce analysis time and improve decision
-  speed for organizations
-- Teaching and sharing knowledge at the intersection of AI, Data, and Digital Growth
 
 ## 🛠️ What Tools Do I Use?
 
