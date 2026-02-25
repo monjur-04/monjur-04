@@ -18,7 +18,7 @@ stakeholders actually trust and use.
 I currently lead **Mavdiron Intelligence** — a research and education initiative
 at the intersection of GenAI, Data Analytics, and Digital Growth.
 
-Certified by **IBM · Google · Microsoft · Meta · Babson College** across Data
+Certified by **IBM · Google · Microsoft · Meta** across Data
 Science, AI Engineering, Business Intelligence, and Strategy.
 
 ---
